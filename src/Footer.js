@@ -78,7 +78,6 @@ function Footer() {
             >
               <i class='fab fa-facebook-f' />
             </Link>
-             <a href="https://www.instagram.com/yash.11_05/?next=%2F" i className='fab fa-instagram fa-2x white-icon' target="_blank"></a>
             <Link
               class='social-icon-link youtube'
               to='/'
